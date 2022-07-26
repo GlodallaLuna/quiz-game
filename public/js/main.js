@@ -64,7 +64,7 @@ let questionArray = [{
 
   {
     question: "Optics is the study of what?",
-    optionOne: "Ligth",
+    optionOne: "Light",
     optionTwo: "Human Eye",
     optionThree: "Clouds",
     correctAnswer: 1
